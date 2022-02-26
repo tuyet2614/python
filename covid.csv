@@ -1,0 +1,792 @@
+date,country,state,fips,cases,deaths
+2020-01-21,Snohomish,Washington,53061,1,0
+2020-01-22,Snohomish,Washington,53061,1,0
+2020-01-23,Snohomish,Washington,53061,1,0
+2020-01-24,Cook,Illinois,17031,1,0
+2020-01-24,Snohomish,Washington,53061,1,0
+2020-01-25,Orange,California,06059,1,0
+2020-01-25,Cook,Illinois,17031,1,0
+2020-01-25,Snohomish,Washington,53061,1,0
+2020-01-26,Maricopa,Arizona,04013,1,0
+2020-01-26,Los Angeles,California,06037,1,0
+2020-01-26,Orange,California,06059,1,0
+2020-01-26,Cook,Illinois,17031,1,0
+2020-01-26,Snohomish,Washington,53061,1,0
+2020-01-27,Maricopa,Arizona,04013,1,0
+2020-01-27,Los Angeles,California,06037,1,0
+2020-01-27,Orange,California,06059,1,0
+2020-01-27,Cook,Illinois,17031,1,0
+2020-01-27,Snohomish,Washington,53061,1,0
+2020-01-28,Maricopa,Arizona,04013,1,0
+2020-01-28,Los Angeles,California,06037,1,0
+2020-01-28,Orange,California,06059,1,0
+2020-01-28,Cook,Illinois,17031,1,0
+2020-01-28,Snohomish,Washington,53061,1,0
+2020-01-29,Maricopa,Arizona,04013,1,0
+2020-01-29,Los Angeles,California,06037,1,0
+2020-01-29,Orange,California,06059,1,0
+2020-01-29,Cook,Illinois,17031,1,0
+2020-01-29,Snohomish,Washington,53061,1,0
+2020-01-30,Maricopa,Arizona,04013,1,0
+2020-01-30,Los Angeles,California,06037,1,0
+2020-01-30,Orange,California,06059,1,0
+2020-01-30,Cook,Illinois,17031,2,0
+2020-01-30,Snohomish,Washington,53061,1,0
+2020-01-31,Maricopa,Arizona,04013,1,0
+2020-01-31,Los Angeles,California,06037,1,0
+2020-01-31,Orange,California,06059,1,0
+2020-01-31,Santa Clara,California,06085,1,0
+2020-01-31,Cook,Illinois,17031,2,0
+2020-01-31,Snohomish,Washington,53061,1,0
+2020-02-01,Maricopa,Arizona,04013,1,0
+2020-02-01,Los Angeles,California,06037,1,0
+2020-02-01,Orange,California,06059,1,0
+2020-02-01,Santa Clara,California,06085,1,0
+2020-02-01,Cook,Illinois,17031,2,0
+2020-02-01,Suffolk,Massachusetts,25025,1,0
+2020-02-01,Snohomish,Washington,53061,1,0
+2020-02-02,Maricopa,Arizona,04013,1,0
+2020-02-02,Los Angeles,California,06037,1,0
+2020-02-02,Orange,California,06059,1,0
+2020-02-02,San Francisco,California,06075,2,0
+2020-02-02,Santa Clara,California,06085,2,0
+2020-02-02,Cook,Illinois,17031,2,0
+2020-02-02,Suffolk,Massachusetts,25025,1,0
+2020-02-02,Snohomish,Washington,53061,1,0
+2020-02-03,Maricopa,Arizona,04013,1,0
+2020-02-03,Los Angeles,California,06037,1,0
+2020-02-03,Orange,California,06059,1,0
+2020-02-03,San Francisco,California,06075,2,0
+2020-02-03,Santa Clara,California,06085,2,0
+2020-02-03,Cook,Illinois,17031,2,0
+2020-02-03,Suffolk,Massachusetts,25025,1,0
+2020-02-03,Snohomish,Washington,53061,1,0
+2020-02-04,Maricopa,Arizona,04013,1,0
+2020-02-04,Los Angeles,California,06037,1,0
+2020-02-04,Orange,California,06059,1,0
+2020-02-04,San Francisco,California,06075,2,0
+2020-02-04,Santa Clara,California,06085,2,0
+2020-02-04,Cook,Illinois,17031,2,0
+2020-02-04,Suffolk,Massachusetts,25025,1,0
+2020-02-04,Snohomish,Washington,53061,1,0
+2020-02-05,Maricopa,Arizona,04013,1,0
+2020-02-05,Los Angeles,California,06037,1,0
+2020-02-05,Orange,California,06059,1,0
+2020-02-05,San Francisco,California,06075,2,0
+2020-02-05,Santa Clara,California,06085,2,0
+2020-02-05,Cook,Illinois,17031,2,0
+2020-02-05,Suffolk,Massachusetts,25025,1,0
+2020-02-05,Snohomish,Washington,53061,1,0
+2020-02-05,Dane,Wisconsin,55025,1,0
+2020-02-06,Maricopa,Arizona,04013,1,0
+2020-02-06,Los Angeles,California,06037,1,0
+2020-02-06,Orange,California,06059,1,0
+2020-02-06,San Francisco,California,06075,2,0
+2020-02-06,Santa Clara,California,06085,2,0
+2020-02-06,Cook,Illinois,17031,2,0
+2020-02-06,Suffolk,Massachusetts,25025,1,0
+2020-02-06,Snohomish,Washington,53061,1,0
+2020-02-06,Dane,Wisconsin,55025,1,0
+2020-02-07,Maricopa,Arizona,04013,1,0
+2020-02-07,Los Angeles,California,06037,1,0
+2020-02-07,Orange,California,06059,1,0
+2020-02-07,San Francisco,California,06075,2,0
+2020-02-07,Santa Clara,California,06085,2,0
+2020-02-07,Cook,Illinois,17031,2,0
+2020-02-07,Suffolk,Massachusetts,25025,1,0
+2020-02-07,Snohomish,Washington,53061,1,0
+2020-02-07,Dane,Wisconsin,55025,1,0
+2020-02-08,Maricopa,Arizona,04013,1,0
+2020-02-08,Los Angeles,California,06037,1,0
+2020-02-08,Orange,California,06059,1,0
+2020-02-08,San Francisco,California,06075,2,0
+2020-02-08,Santa Clara,California,06085,2,0
+2020-02-08,Cook,Illinois,17031,2,0
+2020-02-08,Suffolk,Massachusetts,25025,1,0
+2020-02-08,Snohomish,Washington,53061,1,0
+2020-02-08,Dane,Wisconsin,55025,1,0
+2020-02-09,Maricopa,Arizona,04013,1,0
+2020-02-09,Los Angeles,California,06037,1,0
+2020-02-09,Orange,California,06059,1,0
+2020-02-09,San Francisco,California,06075,2,0
+2020-02-09,Santa Clara,California,06085,2,0
+2020-02-09,Cook,Illinois,17031,2,0
+2020-02-09,Suffolk,Massachusetts,25025,1,0
+2020-02-09,Snohomish,Washington,53061,1,0
+2020-02-09,Dane,Wisconsin,55025,1,0
+2020-02-10,Maricopa,Arizona,04013,1,0
+2020-02-10,Los Angeles,California,06037,1,0
+2020-02-10,Orange,California,06059,1,0
+2020-02-10,San Diego,California,06073,1,0
+2020-02-10,San Francisco,California,06075,2,0
+2020-02-10,Santa Clara,California,06085,2,0
+2020-02-10,Cook,Illinois,17031,2,0
+2020-02-10,Suffolk,Massachusetts,25025,1,0
+2020-02-10,Snohomish,Washington,53061,1,0
+2020-02-10,Dane,Wisconsin,55025,1,0
+2020-02-11,Maricopa,Arizona,04013,1,0
+2020-02-11,Los Angeles,California,06037,1,0
+2020-02-11,Orange,California,06059,1,0
+2020-02-11,San Diego,California,06073,1,0
+2020-02-11,San Francisco,California,06075,2,0
+2020-02-11,Santa Clara,California,06085,2,0
+2020-02-11,Cook,Illinois,17031,2,0
+2020-02-11,Suffolk,Massachusetts,25025,1,0
+2020-02-11,Snohomish,Washington,53061,1,0
+2020-02-11,Dane,Wisconsin,55025,1,0
+2020-02-12,Maricopa,Arizona,04013,1,0
+2020-02-12,Los Angeles,California,06037,1,0
+2020-02-12,Orange,California,06059,1,0
+2020-02-12,San Diego,California,06073,1,0
+2020-02-12,San Francisco,California,06075,2,0
+2020-02-12,Santa Clara,California,06085,2,0
+2020-02-12,Cook,Illinois,17031,2,0
+2020-02-12,Suffolk,Massachusetts,25025,1,0
+2020-02-12,Bexar,Texas,48029,1,0
+2020-02-12,Snohomish,Washington,53061,1,0
+2020-02-12,Dane,Wisconsin,55025,1,0
+2020-02-13,Maricopa,Arizona,04013,1,0
+2020-02-13,Los Angeles,California,06037,1,0
+2020-02-13,Orange,California,06059,1,0
+2020-02-13,San Diego,California,06073,1,0
+2020-02-13,San Francisco,California,06075,2,0
+2020-02-13,Santa Clara,California,06085,2,0
+2020-02-13,Cook,Illinois,17031,2,0
+2020-02-13,Suffolk,Massachusetts,25025,1,0
+2020-02-13,Bexar,Texas,48029,2,0
+2020-02-13,Snohomish,Washington,53061,1,0
+2020-02-13,Dane,Wisconsin,55025,1,0
+2020-02-14,Maricopa,Arizona,04013,1,0
+2020-02-14,Los Angeles,California,06037,1,0
+2020-02-14,Orange,California,06059,1,0
+2020-02-14,San Diego,California,06073,1,0
+2020-02-14,San Francisco,California,06075,2,0
+2020-02-14,Santa Clara,California,06085,2,0
+2020-02-14,Cook,Illinois,17031,2,0
+2020-02-14,Suffolk,Massachusetts,25025,1,0
+2020-02-14,Bexar,Texas,48029,2,0
+2020-02-14,Snohomish,Washington,53061,1,0
+2020-02-14,Dane,Wisconsin,55025,1,0
+2020-02-15,Maricopa,Arizona,04013,1,0
+2020-02-15,Los Angeles,California,06037,1,0
+2020-02-15,Orange,California,06059,1,0
+2020-02-15,San Diego,California,06073,1,0
+2020-02-15,San Francisco,California,06075,2,0
+2020-02-15,Santa Clara,California,06085,2,0
+2020-02-15,Cook,Illinois,17031,2,0
+2020-02-15,Suffolk,Massachusetts,25025,1,0
+2020-02-15,Bexar,Texas,48029,2,0
+2020-02-15,Snohomish,Washington,53061,1,0
+2020-02-15,Dane,Wisconsin,55025,1,0
+2020-02-16,Maricopa,Arizona,04013,1,0
+2020-02-16,Los Angeles,California,06037,1,0
+2020-02-16,Orange,California,06059,1,0
+2020-02-16,San Diego,California,06073,1,0
+2020-02-16,San Francisco,California,06075,2,0
+2020-02-16,Santa Clara,California,06085,2,0
+2020-02-16,Cook,Illinois,17031,2,0
+2020-02-16,Suffolk,Massachusetts,25025,1,0
+2020-02-16,Bexar,Texas,48029,2,0
+2020-02-16,Snohomish,Washington,53061,1,0
+2020-02-16,Dane,Wisconsin,55025,1,0
+2020-02-17,Maricopa,Arizona,04013,1,0
+2020-02-17,Los Angeles,California,06037,1,0
+2020-02-17,Orange,California,06059,1,0
+2020-02-17,San Diego,California,06073,1,0
+2020-02-17,San Francisco,California,06075,2,0
+2020-02-17,Santa Clara,California,06085,2,0
+2020-02-17,Cook,Illinois,17031,2,0
+2020-02-17,Suffolk,Massachusetts,25025,1,0
+2020-02-17,Douglas,Nebraska,31055,10,0
+2020-02-17,Bexar,Texas,48029,2,0
+2020-02-17,Snohomish,Washington,53061,1,0
+2020-02-17,Dane,Wisconsin,55025,1,0
+2020-02-18,Maricopa,Arizona,04013,1,0
+2020-02-18,Los Angeles,California,06037,1,0
+2020-02-18,Orange,California,06059,1,0
+2020-02-18,San Diego,California,06073,1,0
+2020-02-18,San Francisco,California,06075,2,0
+2020-02-18,Santa Clara,California,06085,2,0
+2020-02-18,Cook,Illinois,17031,2,0
+2020-02-18,Suffolk,Massachusetts,25025,1,0
+2020-02-18,Douglas,Nebraska,31055,10,0
+2020-02-18,Bexar,Texas,48029,2,0
+2020-02-18,Snohomish,Washington,53061,1,0
+2020-02-18,Dane,Wisconsin,55025,1,0
+2020-02-19,Maricopa,Arizona,04013,1,0
+2020-02-19,Los Angeles,California,06037,1,0
+2020-02-19,Orange,California,06059,1,0
+2020-02-19,San Diego,California,06073,1,0
+2020-02-19,San Francisco,California,06075,2,0
+2020-02-19,Santa Clara,California,06085,2,0
+2020-02-19,Cook,Illinois,17031,2,0
+2020-02-19,Suffolk,Massachusetts,25025,1,0
+2020-02-19,Douglas,Nebraska,31055,10,0
+2020-02-19,Bexar,Texas,48029,2,0
+2020-02-19,Snohomish,Washington,53061,1,0
+2020-02-19,Dane,Wisconsin,55025,1,0
+2020-02-20,Maricopa,Arizona,04013,1,0
+2020-02-20,Humboldt,California,06023,1,0
+2020-02-20,Los Angeles,California,06037,1,0
+2020-02-20,Orange,California,06059,1,0
+2020-02-20,San Diego,California,06073,1,0
+2020-02-20,San Francisco,California,06075,2,0
+2020-02-20,Santa Clara,California,06085,2,0
+2020-02-20,Cook,Illinois,17031,2,0
+2020-02-20,Suffolk,Massachusetts,25025,1,0
+2020-02-20,Douglas,Nebraska,31055,11,0
+2020-02-20,Bexar,Texas,48029,2,0
+2020-02-20,Snohomish,Washington,53061,1,0
+2020-02-20,Dane,Wisconsin,55025,1,0
+2020-02-21,Maricopa,Arizona,04013,1,0
+2020-02-21,Humboldt,California,06023,1,0
+2020-02-21,Los Angeles,California,06037,1,0
+2020-02-21,Orange,California,06059,1,0
+2020-02-21,Sacramento,California,06067,1,0
+2020-02-21,San Diego,California,06073,1,0
+2020-02-21,San Francisco,California,06075,2,0
+2020-02-21,Santa Clara,California,06085,2,0
+2020-02-21,Cook,Illinois,17031,2,0
+2020-02-21,Suffolk,Massachusetts,25025,1,0
+2020-02-21,Douglas,Nebraska,31055,11,0
+2020-02-21,Bexar,Texas,48029,4,0
+2020-02-21,Snohomish,Washington,53061,1,0
+2020-02-21,Dane,Wisconsin,55025,1,0
+2020-02-22,Maricopa,Arizona,04013,1,0
+2020-02-22,Humboldt,California,06023,1,0
+2020-04-10,Williams,Ohio,39171,2,0
+2020-04-10,Wood,Ohio,39173,49,3
+2020-04-10,Wyandot,Ohio,39175,9,1
+2020-04-10,Adair,Oklahoma,40001,26,2
+2020-04-10,Atoka,Oklahoma,40005,1,0
+2020-04-10,Beaver,Oklahoma,40007,1,0
+2020-04-10,Beckham,Oklahoma,40009,1,0
+2020-04-10,Bryan,Oklahoma,40013,3,0
+2020-04-10,Caddo,Oklahoma,40015,8,0
+2020-04-10,Canadian,Oklahoma,40017,52,1
+2020-04-10,Carter,Oklahoma,40019,1,0
+2020-04-10,Cherokee,Oklahoma,40021,18,1
+2020-04-10,Choctaw,Oklahoma,40023,2,0
+2020-04-10,Cleveland,Oklahoma,40027,236,14
+2020-04-10,Comanche,Oklahoma,40031,47,0
+2020-04-10,Cotton,Oklahoma,40033,4,0
+2020-04-10,Craig,Oklahoma,40035,6,0
+2020-04-10,Creek,Oklahoma,40037,53,3
+2020-04-10,Custer,Oklahoma,40039,5,0
+2020-04-10,Delaware,Oklahoma,40041,23,0
+2020-04-10,Dewey,Oklahoma,40043,1,0
+2020-04-10,Garfield,Oklahoma,40047,5,1
+2020-04-10,Garvin,Oklahoma,40049,11,0
+2020-04-10,Grady,Oklahoma,40051,11,0
+2020-04-10,Grant,Oklahoma,40053,1,0
+2020-04-10,Greer,Oklahoma,40055,46,4
+2020-04-10,Jackson,Oklahoma,40065,6,0
+2020-04-10,Jefferson,Oklahoma,40067,1,0
+2020-04-10,Kay,Oklahoma,40071,41,3
+2020-04-10,Kingfisher,Oklahoma,40073,5,0
+2020-04-10,Kiowa,Oklahoma,40075,1,0
+2020-04-10,Latimer,Oklahoma,40077,4,1
+2020-04-10,Le Flore,Oklahoma,40079,3,0
+2020-04-10,Lincoln,Oklahoma,40081,11,0
+2020-04-10,Logan,Oklahoma,40083,7,0
+2020-04-10,Love,Oklahoma,40085,2,0
+2020-04-10,Major,Oklahoma,40093,1,0
+2020-04-10,Marshall,Oklahoma,40095,1,0
+2020-04-10,Mayes,Oklahoma,40097,13,2
+2020-04-10,McClain,Oklahoma,40087,18,0
+2020-04-10,McCurtain,Oklahoma,40089,2,0
+2020-04-10,Murray,Oklahoma,40099,1,0
+2020-04-10,Muskogee,Oklahoma,40101,21,2
+2020-04-10,Noble,Oklahoma,40103,6,0
+2020-04-10,Nowata,Oklahoma,40105,10,0
+2020-04-10,Okfuskee,Oklahoma,40107,1,0
+2020-04-10,Oklahoma,Oklahoma,40109,413,17
+2020-04-10,Okmulgee,Oklahoma,40111,13,0
+2020-04-10,Osage,Oklahoma,40113,45,7
+2020-04-10,Ottawa,Oklahoma,40115,17,0
+2020-04-10,Pawnee,Oklahoma,40117,26,2
+2020-04-10,Payne,Oklahoma,40119,28,0
+2020-04-10,Pittsburg,Oklahoma,40121,8,0
+2020-04-10,Pontotoc,Oklahoma,40123,9,0
+2020-04-10,Pottawatomie,Oklahoma,40125,25,2
+2020-04-10,Rogers,Oklahoma,40131,23,0
+2020-04-10,Seminole,Oklahoma,40133,6,1
+2020-04-10,Sequoyah,Oklahoma,40135,10,2
+2020-04-10,Stephens,Oklahoma,40137,13,1
+2020-04-10,Texas,Oklahoma,40139,3,0
+2020-04-10,Tillman,Oklahoma,40141,1,0
+2020-04-10,Tulsa,Oklahoma,40143,314,16
+2020-04-10,Wagoner,Oklahoma,40145,65,4
+2020-04-10,Washington,Oklahoma,40147,57,2
+2020-04-10,Woodward,Oklahoma,40153,1,0
+2020-04-10,Benton,Oregon,41003,21,2
+2020-04-10,Clackamas,Oregon,41005,116,3
+2020-04-10,Clatsop,Oregon,41007,6,0
+2020-04-10,Columbia,Oregon,41009,10,0
+2020-04-10,Crook,Oregon,41013,1,0
+2020-04-10,Curry,Oregon,41015,3,0
+2020-04-10,Deschutes,Oregon,41017,51,0
+2020-04-10,Douglas,Oregon,41019,12,0
+2020-04-10,Grant,Oregon,41023,1,0
+2020-04-10,Hood River,Oregon,41027,4,0
+2020-04-10,Jackson,Oregon,41029,44,0
+2020-04-10,Josephine,Oregon,41033,17,0
+2020-04-10,Klamath,Oregon,41035,24,0
+2020-04-10,Lane,Oregon,41039,34,1
+2020-04-10,Lincoln,Oregon,41041,4,0
+2020-04-10,Linn,Oregon,41043,49,4
+2020-04-10,Malheur,Oregon,41045,2,0
+2020-04-10,Marion,Oregon,41047,246,9
+2020-04-10,Morrow,Oregon,41049,5,0
+2020-04-10,Multnomah,Oregon,41051,317,17
+2020-04-10,Polk,Oregon,41053,29,1
+2020-04-10,Sherman,Oregon,41055,1,0
+2020-04-10,Tillamook,Oregon,41057,4,0
+2020-04-10,Umatilla,Oregon,41059,11,0
+2020-04-10,Union,Oregon,41061,3,0
+2020-04-10,Wallowa,Oregon,41063,1,0
+2020-04-10,Wasco,Oregon,41065,7,0
+2020-04-10,Washington,Oregon,41067,320,6
+2020-04-10,Yamhill,Oregon,41071,28,5
+2020-04-10,Adams,Pennsylvania,42001,43,1
+2020-04-10,Allegheny,Pennsylvania,42003,788,18
+2020-04-10,Armstrong,Pennsylvania,42005,22,0
+2020-04-10,Beaver,Pennsylvania,42007,139,13
+2020-04-10,Bedford,Pennsylvania,42009,3,0
+2020-04-10,Berks,Pennsylvania,42011,720,12
+2020-04-10,Blair,Pennsylvania,42013,9,0
+2020-04-10,Bradford,Pennsylvania,42015,16,0
+2020-04-10,Bucks,Pennsylvania,42017,1107,32
+2020-04-10,Butler,Pennsylvania,42019,123,3
+2020-04-10,Cambria,Pennsylvania,42021,11,1
+2020-04-10,Cameron,Pennsylvania,42023,1,0
+2020-04-10,Carbon,Pennsylvania,42025,93,3
+2020-04-10,Centre,Pennsylvania,42027,61,0
+2020-04-10,Chester,Pennsylvania,42029,485,9
+2020-04-10,Clarion,Pennsylvania,42031,10,0
+2020-04-10,Clearfield,Pennsylvania,42033,8,0
+2020-04-10,Clinton,Pennsylvania,42035,6,0
+2020-04-10,Columbia,Pennsylvania,42037,81,2
+2020-04-10,Crawford,Pennsylvania,42039,13,0
+2020-04-10,Cumberland,Pennsylvania,42041,96,2
+2020-04-10,Dauphin,Pennsylvania,42043,199,2
+2020-04-10,Delaware,Pennsylvania,42045,1377,30
+2020-04-10,Elk,Pennsylvania,42047,2,0
+2020-04-10,Erie,Pennsylvania,42049,36,1
+2020-04-10,Fayette,Pennsylvania,42051,49,1
+2020-04-10,Forest,Pennsylvania,42053,5,0
+2020-04-10,Franklin,Pennsylvania,42055,57,0
+2020-04-10,Fulton,Pennsylvania,42057,1,0
+2020-04-10,Greene,Pennsylvania,42059,21,0
+2020-04-10,Huntingdon,Pennsylvania,42061,8,0
+2020-04-10,Indiana,Pennsylvania,42063,26,0
+2020-04-10,Jefferson,Pennsylvania,42065,1,0
+2020-04-10,Juniata,Pennsylvania,42067,30,0
+2020-04-10,Lackawanna,Pennsylvania,42069,346,18
+2020-04-10,Lancaster,Pennsylvania,42071,648,21
+2020-04-10,Lawrence,Pennsylvania,42073,45,3
+2020-04-10,Lebanon,Pennsylvania,42075,218,1
+2020-04-10,Lehigh,Pennsylvania,42077,1562,16
+2020-04-10,Luzerne,Pennsylvania,42079,1325,15
+2020-04-10,Lycoming,Pennsylvania,42081,18,0
+2020-04-10,McKean,Pennsylvania,42083,1,0
+2020-04-10,Mercer,Pennsylvania,42085,36,0
+2020-04-10,Mifflin,Pennsylvania,42087,11,0
+2020-04-10,Monroe,Pennsylvania,42089,752,19
+2020-04-10,Montgomery,Pennsylvania,42091,1889,62
+2020-04-10,Montour,Pennsylvania,42093,29,0
+2020-04-10,Northampton,Pennsylvania,42095,994,21
+2020-04-10,Northumberland,Pennsylvania,42097,29,0
+2020-04-10,Perry,Pennsylvania,42099,16,1
+2020-04-10,Philadelphia,Pennsylvania,42101,5521,110
+2020-04-10,Pike,Pennsylvania,42103,190,6
+2020-04-10,Potter,Pennsylvania,42105,3,0
+2020-04-10,Schuylkill,Pennsylvania,42107,164,1
+2020-04-10,Snyder,Pennsylvania,42109,12,1
+2020-04-10,Somerset,Pennsylvania,42111,10,0
+2020-04-10,Sullivan,Pennsylvania,42113,1,0
+2020-04-10,Susquehanna,Pennsylvania,42115,22,2
+2020-04-10,Tioga,Pennsylvania,42117,11,0
+2020-04-10,Union,Pennsylvania,42119,12,0
+2020-04-10,Venango,Pennsylvania,42121,5,0
+2020-04-10,Warren,Pennsylvania,42123,1,0
+2020-04-10,Washington,Pennsylvania,42125,66,0
+2020-04-10,Wayne,Pennsylvania,42127,53,0
+2020-04-10,Westmoreland,Pennsylvania,42129,202,5
+2020-04-10,Wyoming,Pennsylvania,42131,6,0
+2020-04-10,York,Pennsylvania,42133,283,3
+2020-04-10,Unknown,Puerto Rico,,725,39
+2020-04-10,Bristol,Rhode Island,44001,37,0
+2020-04-10,Kent,Rhode Island,44003,152,0
+2020-04-10,Newport,Rhode Island,44005,57,0
+2020-04-10,Providence,Rhode Island,44007,957,20
+2020-04-10,Unknown,Rhode Island,,712,29
+2020-04-10,Washington,Rhode Island,44009,100,0
+2020-04-10,Abbeville,South Carolina,45001,7,0
+2020-04-10,Aiken,South Carolina,45003,48,1
+2020-04-10,Allendale,South Carolina,45005,4,0
+2020-04-10,Anderson,South Carolina,45007,100,5
+2020-04-10,Bamberg,South Carolina,45009,6,0
+2020-04-10,Barnwell,South Carolina,45011,5,0
+2020-04-10,Beaufort,South Carolina,45013,186,5
+2020-04-10,Berkeley,South Carolina,45015,67,1
+2020-04-10,Calhoun,South Carolina,45017,6,1
+2020-04-10,Charleston,South Carolina,45019,328,1
+2020-04-10,Cherokee,South Carolina,45021,8,0
+2020-04-10,Chester,South Carolina,45023,17,0
+2020-04-10,Chesterfield,South Carolina,45025,22,0
+2020-04-10,Clarendon,South Carolina,45027,80,3
+2020-04-10,Colleton,South Carolina,45029,15,0
+2020-04-10,Darlington,South Carolina,45031,33,0
+2020-04-10,Dillon,South Carolina,45033,5,0
+2020-04-10,Dorchester,South Carolina,45035,65,0
+2020-04-10,Edgefield,South Carolina,45037,10,0
+2020-04-10,Fairfield,South Carolina,45039,18,0
+2020-04-10,Florence,South Carolina,45041,64,6
+2020-04-10,Georgetown,South Carolina,45043,28,1
+2020-04-10,Greenville,South Carolina,45045,308,6
+2020-04-10,Greenwood,South Carolina,45047,16,0
+2020-04-10,Hampton,South Carolina,45049,6,0
+2020-04-10,Horry,South Carolina,45051,124,7
+2020-04-10,Jasper,South Carolina,45053,11,0
+2020-04-10,Kershaw,South Carolina,45055,177,3
+2020-04-10,Lancaster,South Carolina,45057,61,0
+2020-04-10,Laurens,South Carolina,45059,11,1
+2020-04-10,Lee,South Carolina,45061,27,3
+2020-04-10,Lexington,South Carolina,45063,184,6
+2020-04-10,Marion,South Carolina,45067,5,1
+2020-04-10,Marlboro,South Carolina,45069,11,0
+2020-04-10,McCormick,South Carolina,45065,3,1
+2020-04-10,Newberry,South Carolina,45071,13,1
+2020-04-10,Oconee,South Carolina,45073,12,0
+2020-04-10,Orangeburg,South Carolina,45075,37,0
+2020-04-10,Pickens,South Carolina,45077,27,0
+2020-04-10,Richland,South Carolina,45079,452,10
+2020-04-10,Saluda,South Carolina,45081,6,0
+2020-04-10,Spartanburg,South Carolina,45083,150,4
+2020-04-10,Sumter,South Carolina,45085,142,3
+2020-04-10,Union,South Carolina,45087,20,0
+2020-04-10,Williamsburg,South Carolina,45089,15,0
+2020-04-10,York,South Carolina,45091,125,2
+2020-04-10,Aurora,South Dakota,46003,1,0
+2020-04-10,Beadle,South Dakota,46005,22,2
+2020-04-10,Bon Homme,South Dakota,46009,3,0
+2020-04-10,Brookings,South Dakota,46011,7,0
+2020-04-10,Brown,South Dakota,46013,14,0
+2020-04-10,Charles Mix,South Dakota,46023,3,0
+2020-04-10,Clark,South Dakota,46025,1,0
+2020-04-10,Clay,South Dakota,46027,6,0
+2020-04-10,Codington,South Dakota,46029,12,0
+2020-04-10,Corson,South Dakota,46031,1,0
+2020-04-10,Davison,South Dakota,46035,3,1
+2020-04-10,Deuel,South Dakota,46039,1,0
+2020-04-10,Fall River,South Dakota,46047,1,0
+2020-04-10,Faulk,South Dakota,46049,1,0
+2020-04-10,Hamlin,South Dakota,46057,1,0
+2020-04-10,Hughes,South Dakota,46065,4,0
+2020-04-10,Hutchinson,South Dakota,46067,2,0
+2020-04-10,Jerauld,South Dakota,46073,1,0
+2020-04-10,Lake,South Dakota,46079,2,0
+2020-04-10,Lawrence,South Dakota,46081,9,0
+2020-04-10,Lincoln,South Dakota,46083,38,0
+2020-04-10,Lyman,South Dakota,46085,2,0
+2020-04-10,Marshall,South Dakota,46091,1,0
+2020-04-10,McCook,South Dakota,46087,2,1
+2020-04-10,Meade,South Dakota,46093,1,0
+2020-04-10,Miner,South Dakota,46097,1,0
+2020-04-10,Minnehaha,South Dakota,46099,352,2
+2020-04-10,Oglala Lakota,South Dakota,46102,1,0
+2020-04-10,Pennington,South Dakota,46103,8,0
+2020-04-10,Roberts,South Dakota,46109,4,0
+2020-04-10,Spink,South Dakota,46115,3,0
+2020-04-10,Todd,South Dakota,46121,1,0
+2020-04-10,Turner,South Dakota,46125,5,0
+2020-04-10,Union,South Dakota,46127,3,0
+2020-04-10,Yankton,South Dakota,46135,19,0
+2020-04-10,Anderson,Tennessee,47001,11,1
+2020-04-10,Bedford,Tennessee,47003,15,1
+2020-04-10,Benton,Tennessee,47005,4,0
+2020-04-10,Bledsoe,Tennessee,47007,3,0
+2020-04-10,Blount,Tennessee,47009,45,3
+2020-04-10,Bradley,Tennessee,47011,31,0
+2020-04-10,Campbell,Tennessee,47013,10,0
+2020-04-10,Cannon,Tennessee,47015,7,0
+2020-04-10,Carroll,Tennessee,47017,10,0
+2020-04-10,Carter,Tennessee,47019,3,0
+2020-04-10,Cheatham,Tennessee,47021,17,0
+2020-04-10,Chester,Tennessee,47023,7,0
+2020-04-10,Claiborne,Tennessee,47025,3,0
+2020-04-10,Clay,Tennessee,47027,2,0
+2020-04-10,Cocke,Tennessee,47029,3,0
+2020-04-10,Coffee,Tennessee,47031,10,0
+2020-04-10,Cumberland,Tennessee,47035,39,0
+2020-04-10,Davidson,Tennessee,47037,1224,13
+2020-04-10,DeKalb,Tennessee,47041,8,0
+2020-04-10,Decatur,Tennessee,47039,1,0
+2020-04-10,Dickson,Tennessee,47043,29,0
+2020-04-10,Dyer,Tennessee,47045,15,0
+2020-04-10,Fayette,Tennessee,47047,28,0
+2020-04-10,Fentress,Tennessee,47049,2,0
+2020-04-10,Franklin,Tennessee,47051,17,1
+2020-04-10,Gibson,Tennessee,47053,18,0
+2020-04-10,Giles,Tennessee,47055,3,0
+2020-04-10,Grainger,Tennessee,47057,4,0
+2020-04-10,Greene,Tennessee,47059,25,1
+2020-04-10,Grundy,Tennessee,47061,19,0
+2020-04-10,Hamblen,Tennessee,47063,4,1
+2020-04-10,Hamilton,Tennessee,47065,102,10
+2020-04-10,Hardeman,Tennessee,47069,7,0
+2020-04-10,Hardin,Tennessee,47071,2,0
+2020-04-10,Hawkins,Tennessee,47073,22,1
+2020-04-10,Haywood,Tennessee,47075,13,1
+2020-04-10,Henderson,Tennessee,47077,2,0
+2020-04-10,Henry,Tennessee,47079,6,0
+2020-04-10,Hickman,Tennessee,47081,2,0
+2020-04-10,Houston,Tennessee,47083,3,0
+2020-04-10,Humphreys,Tennessee,47085,4,0
+2020-04-10,Jackson,Tennessee,47087,5,0
+2020-04-10,Jefferson,Tennessee,47089,13,0
+2020-04-10,Johnson,Tennessee,47091,2,0
+2020-04-10,Knox,Tennessee,47093,164,4
+2020-04-10,Lauderdale,Tennessee,47097,8,0
+2020-04-10,Lawrence,Tennessee,47099,12,0
+2020-04-10,Lewis,Tennessee,47101,2,0
+2020-04-10,Lincoln,Tennessee,47103,8,0
+2020-04-10,Loudon,Tennessee,47105,16,0
+2020-04-10,Macon,Tennessee,47111,19,2
+2020-04-10,Madison,Tennessee,47113,56,0
+2020-04-10,Marion,Tennessee,47115,22,1
+2020-04-10,Marshall,Tennessee,47117,9,1
+2020-04-10,Maury,Tennessee,47119,32,1
+2020-04-10,McMinn,Tennessee,47107,4,0
+2020-04-10,McNairy,Tennessee,47109,9,0
+2020-04-10,Meigs,Tennessee,47121,3,0
+2020-04-10,Monroe,Tennessee,47123,8,0
+2020-04-10,Montgomery,Tennessee,47125,84,2
+2020-04-10,Morgan,Tennessee,47129,5,0
+2020-04-10,Obion,Tennessee,47131,5,1
+2020-04-10,Overton,Tennessee,47133,5,0
+2020-04-10,Perry,Tennessee,47135,3,0
+2020-04-10,Polk,Tennessee,47139,5,0
+2020-04-10,Putnam,Tennessee,47141,84,0
+2020-04-10,Roane,Tennessee,47145,5,0
+2020-04-10,Robertson,Tennessee,47147,73,0
+2020-04-10,Rutherford,Tennessee,47149,222,6
+2020-04-10,Scott,Tennessee,47151,8,0
+2020-04-10,Sequatchie,Tennessee,47153,1,0
+2020-04-10,Sevier,Tennessee,47155,21,0
+2020-04-10,Shelby,Tennessee,47157,1083,25
+2020-04-10,Smith,Tennessee,47159,5,0
+2020-04-10,Stewart,Tennessee,47161,3,0
+2020-04-10,Sullivan,Tennessee,47163,35,1
+2020-04-10,Sumner,Tennessee,47165,413,21
+2020-04-10,Tipton,Tennessee,47167,43,0
+2020-04-10,Trousdale,Tennessee,47169,14,1
+2020-04-10,Unicoi,Tennessee,47171,1,0
+2020-04-10,Union,Tennessee,47173,3,0
+2020-04-10,Unknown,Tennessee,,22,0
+2020-04-10,Warren,Tennessee,47177,3,0
+2020-04-10,Washington,Tennessee,47179,37,0
+2020-04-10,Wayne,Tennessee,47181,2,0
+2020-04-10,Weakley,Tennessee,47183,5,0
+2020-04-10,White,Tennessee,47185,3,0
+2020-04-10,Williamson,Tennessee,47187,299,4
+2020-04-10,Wilson,Tennessee,47189,129,1
+2020-04-10,Anderson,Texas,48001,3,0
+2020-04-10,Andrews,Texas,48003,11,0
+2020-04-10,Angelina,Texas,48005,16,0
+2020-04-10,Aransas,Texas,48007,2,0
+2020-04-10,Atascosa,Texas,48013,8,0
+2020-04-10,Austin,Texas,48015,8,0
+2020-04-10,Bandera,Texas,48019,1,0
+2020-04-10,Bastrop,Texas,48021,26,1
+2020-04-10,Bee,Texas,48025,1,0
+2020-04-10,Bell,Texas,48027,84,3
+2020-04-10,Bexar,Texas,48029,676,24
+2020-04-10,Blanco,Texas,48031,4,0
+2020-04-10,Bowie,Texas,48037,35,5
+2020-04-10,Brazoria,Texas,48039,199,2
+2020-04-10,Brazos,Texas,48041,116,9
+2020-04-10,Brown,Texas,48049,8,0
+2020-04-10,Burleson,Texas,48051,6,0
+2020-04-10,Burnet,Texas,48053,6,0
+2020-04-10,Caldwell,Texas,48055,6,0
+2020-04-10,Calhoun,Texas,48057,14,0
+2020-04-10,Callahan,Texas,48059,1,0
+2020-04-10,Cameron,Texas,48061,147,3
+2020-04-10,Camp,Texas,48063,3,0
+2020-04-10,Cass,Texas,48067,5,2
+2020-04-10,Castro,Texas,48069,10,1
+2020-04-10,Chambers,Texas,48071,24,0
+2020-04-10,Cherokee,Texas,48073,6,0
+2020-04-10,Clay,Texas,48077,3,0
+2020-04-10,Collin,Texas,48085,406,6
+2020-04-10,Colorado,Texas,48089,6,0
+2020-04-10,Comal,Texas,48091,37,4
+2020-04-10,Comanche,Texas,48093,3,0
+2020-04-10,Concho,Texas,48095,1,0
+2020-04-10,Cooke,Texas,48097,1,0
+2020-04-10,Coryell,Texas,48099,18,0
+2020-04-10,Crane,Texas,48103,2,0
+2020-04-10,Crosby,Texas,48107,1,0
+2020-04-10,Dallam,Texas,48111,1,0
+2020-04-10,Dallas,Texas,48113,1537,25
+2020-04-10,Dawson,Texas,48115,5,1
+2020-04-10,DeWitt,Texas,48123,8,0
+2020-04-10,Deaf Smith,Texas,48117,7,0
+2020-04-10,Delta,Texas,48119,1,0
+2020-04-10,Denton,Texas,48121,426,9
+2020-04-10,Dickens,Texas,48125,1,0
+2020-04-10,Donley,Texas,48129,21,0
+2020-04-10,Eastland,Texas,48133,3,0
+2020-04-10,Ector,Texas,48135,39,1
+2020-04-10,El Paso,Texas,48141,252,2
+2020-04-10,Ellis,Texas,48139,63,2
+2020-04-10,Erath,Texas,48143,10,1
+2020-04-10,Falls,Texas,48145,1,0
+2020-04-10,Fannin,Texas,48147,5,0
+2020-04-10,Fayette,Texas,48149,17,0
+2020-04-10,Floyd,Texas,48153,1,0
+2020-04-10,Fort Bend,Texas,48157,485,10
+2020-04-10,Franklin,Texas,48159,1,0
+2020-04-10,Frio,Texas,48163,1,0
+2020-04-10,Gaines,Texas,48165,1,0
+2020-04-10,Galveston,Texas,48167,341,8
+2020-04-10,Gillespie,Texas,48171,2,0
+2020-04-10,Goliad,Texas,48175,4,0
+2020-04-10,Gonzales,Texas,48177,2,0
+2020-04-10,Gray,Texas,48179,12,0
+2020-04-10,Grayson,Texas,48181,17,0
+2020-04-10,Gregg,Texas,48183,39,0
+2020-04-10,Grimes,Texas,48185,6,0
+2020-04-10,Guadalupe,Texas,48187,47,0
+2020-05-30,Vanderburgh,Indiana,18163,269,2
+2020-05-30,Vermillion,Indiana,18165,11,0
+2020-05-30,Vigo,Indiana,18167,169,9
+2020-05-30,Wabash,Indiana,18169,77,2
+2020-05-30,Warren,Indiana,18171,13,1
+2020-05-30,Warrick,Indiana,18173,167,29
+2020-05-30,Washington,Indiana,18175,52,1
+2020-05-30,Wayne,Indiana,18177,228,5
+2020-05-30,Wells,Indiana,18179,31,0
+2020-05-30,White,Indiana,18181,233,8
+2020-05-30,Whitley,Indiana,18183,41,3
+2020-05-30,Adair,Iowa,19001,9,0
+2020-05-30,Adams,Iowa,19003,7,0
+2020-05-30,Allamakee,Iowa,19005,120,4
+2020-05-30,Appanoose,Iowa,19007,15,3
+2020-05-30,Audubon,Iowa,19009,12,1
+2020-05-30,Benton,Iowa,19011,42,1
+2020-05-30,Black Hawk,Iowa,19013,1743,44
+2020-05-30,Boone,Iowa,19015,61,0
+2020-05-30,Bremer,Iowa,19017,69,6
+2020-05-30,Buchanan,Iowa,19019,33,0
+2020-05-30,Buena Vista,Iowa,19021,743,0
+2020-05-30,Butler,Iowa,19023,15,1
+2020-05-30,Calhoun,Iowa,19025,2,0
+2020-05-30,Carroll,Iowa,19027,9,0
+2020-05-30,Cass,Iowa,19029,12,0
+2020-05-30,Cedar,Iowa,19031,46,1
+2020-05-30,Cerro Gordo,Iowa,19033,29,1
+2020-05-30,Cherokee,Iowa,19035,28,0
+2020-05-30,Chickasaw,Iowa,19037,10,0
+2020-05-30,Clarke,Iowa,19039,54,0
+2020-05-30,Clay,Iowa,19041,15,0
+2020-05-30,Clayton,Iowa,19043,34,3
+2020-05-30,Clinton,Iowa,19045,61,1
+2020-05-30,Crawford,Iowa,19047,517,2
+2020-05-30,Dallas,Iowa,19049,900,20
+2020-05-30,Davis,Iowa,19051,21,0
+2020-05-30,Decatur,Iowa,19053,1,0
+2020-05-30,Delaware,Iowa,19055,15,0
+2020-05-30,Des Moines,Iowa,19057,62,1
+2020-05-30,Dickinson,Iowa,19059,20,0
+2020-05-30,Dubuque,Iowa,19061,343,18
+2020-05-30,Emmet,Iowa,19063,14,0
+2020-05-30,Fayette,Iowa,19065,27,0
+2020-05-30,Floyd,Iowa,19067,19,1
+2020-05-30,Franklin,Iowa,19069,13,0
+2020-05-30,Fremont,Iowa,19071,4,0
+2020-05-30,Greene,Iowa,19073,13,0
+2020-05-30,Grundy,Iowa,19075,20,0
+2020-05-30,Guthrie,Iowa,19077,50,3
+2020-05-30,Hamilton,Iowa,19079,35,0
+2020-05-30,Hancock,Iowa,19081,16,0
+2020-05-30,Hardin,Iowa,19083,17,0
+2020-05-30,Harrison,Iowa,19085,23,0
+2020-05-30,Henry,Iowa,19087,71,1
+2020-05-30,Howard,Iowa,19089,12,0
+2020-05-30,Humboldt,Iowa,19091,17,0
+2020-05-30,Ida,Iowa,19093,14,0
+2020-05-30,Iowa,Iowa,19095,33,0
+2020-05-30,Jackson,Iowa,19097,12,0
+2020-05-30,Jasper,Iowa,19099,261,16
+2020-05-30,Jefferson,Iowa,19101,26,0
+2020-05-30,Johnson,Iowa,19103,614,9
+2020-05-30,Jones,Iowa,19105,36,0
+2020-05-30,Keokuk,Iowa,19107,15,0
+2020-05-30,Kossuth,Iowa,19109,9,0
+2020-05-30,Lee,Iowa,19111,25,0
+2020-05-30,Linn,Iowa,19113,952,76
+2020-05-30,Louisa,Iowa,19115,343,11
+2020-05-30,Lucas,Iowa,19117,17,0
+2020-05-30,Lyon,Iowa,19119,21,0
+2020-05-30,Madison,Iowa,19121,28,2
+2020-05-30,Mahaska,Iowa,19123,93,10
+2020-05-30,Marion,Iowa,19125,32,0
+2020-05-30,Marshall,Iowa,19127,892,16
+2020-05-30,Mills,Iowa,19129,19,0
+2020-05-30,Mitchell,Iowa,19131,4,0
+2020-05-30,Monona,Iowa,19133,24,0
+2020-05-30,Monroe,Iowa,19135,38,5
+2020-05-30,Montgomery,Iowa,19137,7,0
+2020-05-30,Muscatine,Iowa,19139,557,41
+2020-05-30,O'Brien,Iowa,19141,28,0
+2020-05-30,Osceola,Iowa,19143,33,0
+2020-05-30,Page,Iowa,19145,13,0
+2020-05-30,Palo Alto,Iowa,19147,6,0
+2020-05-30,Plymouth,Iowa,19149,129,2
+2020-05-30,Pocahontas,Iowa,19151,11,0
+2020-05-30,Polk,Iowa,19153,4189,125
+2020-05-30,Pottawattamie,Iowa,19155,259,8
+2020-05-30,Poweshiek,Iowa,19157,90,8
+2020-05-30,Ringgold,Iowa,19159,4,0
+2020-05-30,Sac,Iowa,19161,18,0
+2020-05-30,Scott,Iowa,19163,359,10
+2020-05-30,Shelby,Iowa,19165,37,0
+2020-05-30,Sioux,Iowa,19167,219,0
+2020-05-30,Story,Iowa,19169,111,1
+2020-05-30,Tama,Iowa,19171,403,27
+2020-05-30,Taylor,Iowa,19173,54,0
+2020-05-30,Union,Iowa,19175,7,0
+2020-05-30,Van Buren,Iowa,19177,9,0
+2020-05-30,Wapello,Iowa,19179,577,9
+2020-05-30,Warren,Iowa,19181,130,0
+2020-05-30,Washington,Iowa,19183,189,8
+2020-05-30,Wayne,Iowa,19185,1,0
+2020-05-30,Webster,Iowa,19187,39,1
+2020-05-30,Winnebago,Iowa,19189,11,0
+2020-05-30,Winneshiek,Iowa,19191,24,0
+2020-05-30,Woodbury,Iowa,19193,2745,34
+2020-05-30,Worth,Iowa,19195,3,0
+2020-05-30,Wright,Iowa,19197,167,0
+2020-05-30,Anderson,Kansas,20003,1,0
+2020-05-30,Atchison,Kansas,20005,20,0
+2020-05-30,Barber,Kansas,20007,1,0
+2020-05-30,Barton,Kansas,20009,45,1
+2020-05-30,Bourbon,Kansas,20011,8,1
+2020-05-30,Brown,Kansas,20013,6,0
+2020-05-30,Butler,Kansas,20015,34,0
+2020-05-30,Chase,Kansas,20017,4,0
+2020-05-30,Chautauqua,Kansas,20019,4,0
+2020-05-30,Cherokee,Kansas,20021,9,0
+2020-05-30,Cheyenne,Kansas,20023,2,0
+2020-05-30,Clark,Kansas,20025,33,0
+2020-05-30,Clay,Kansas,20027,5,1
+2020-05-30,Cloud,Kansas,20029,5,0
+2020-05-30,Coffey,Kansas,20031,50,8
+2020-05-30,Comanche,Kansas,20033,2,0
+2020-05-30,Cowley,Kansas,20035,5,1
+2020-05-30,Crawford,Kansas,20037,6,1
+2020-05-30,Dickinson,Kansas,20041,3,0
+2020-05-30,Doniphan,Kansas,20043,13,

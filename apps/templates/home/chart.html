@@ -1,0 +1,73 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Charts Morris {% endblock %} 
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %}
+
+    <link rel="stylesheet" href="/static/assets/plugins/chart-morris/css/morris.css">
+
+{% endblock stylesheets %}
+
+{% block content %}
+
+<div class="pcoded-content">
+    <div class="pcoded-inner-content">
+        <!-- [ breadcrumb ] start -->
+        <div class="page-header">
+            <div class="page-block">
+                <div class="row align-items-center">
+                    <div class="col-md-12">
+                        <div class="page-header-title">
+                            <h5 class="m-b-10">Morris Chart</h5>
+                        </div>
+                        <ul class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="/"><i class="feather icon-home"></i></a></li>
+                            <li class="breadcrumb-item"><a href="javascript:">Chart</a></li>
+                            <li class="breadcrumb-item"><a href="javascript:">Morris Chart</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- [ breadcrumb ] end -->
+        <div class="form-group">
+            <form action="chart">
+                <select class="form-control" id="exampleFormControlSelect1" width="100px" name="selected" method="get">
+                    <option value="bar">bar chart</option>
+                    <option value="pie">pie chart</option>
+                    <option value="donut">Donut shape</option>
+                </select>
+
+                <select class="form-control" id="exampleFormControlSelect1" width="100px" name="optioned" method="get">
+                    <option value="mean">mean</option>
+                    <option value="sum">sum</option>
+                    <option value="max">max</option>
+                    <option value="min">min</option>
+                    <option value="count">count</option>
+                </select>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+            
+            
+        </div>
+        <div class="main-body">
+            
+            <figure>
+                {{rendered_chart|safe}}
+            </figure>
+        </div>
+    </div>
+</div>
+
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}
+
+    <script src="/static/assets/plugins/chart-morris/js/raphael.min.js"></script>
+    <script src="/static/assets/plugins/chart-morris/js/morris.min.js"></script>
+    <script src="/static/assets/js/pages/chart-morris-custom.js"></script>
+
+{% endblock javascripts %}
